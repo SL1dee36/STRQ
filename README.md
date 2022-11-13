@@ -1,0 +1,2 @@
+# STRQ
+STRQ - Python game
