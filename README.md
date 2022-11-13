@@ -13,7 +13,7 @@ STRQ - Python game
 ### Запуск проекта
 - Клонировать репозиторий
 ```
-git clone https://github.com/
+git clone https://github.com/SL1dee36/STRQ
 ```
 - Установить библиотеку Pygame
 ```
