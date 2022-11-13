@@ -17,9 +17,11 @@ git clone https://github.com/SL1dee36/STRQ
 ```
 - Установить библиотеку Pygame
 ```
-pip install pygame
+pip install pygame!
 ```
 - Запустить видеоигру из главной директории
 ```
 python main.py
 ```
+[screenshot](https://user-images.githubusercontent.com/84046495/201533061-194592d3-6342-4daa-9e4d-c5a7fd5014aa.png)
+
